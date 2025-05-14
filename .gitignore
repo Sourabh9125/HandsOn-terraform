@@ -1,7 +1,8 @@
-terra-ansible_ec2.pem
+terra-ansible_ec2.pub
 .terraform.lock.hcl
 terraform.tfstate
 terraform.tfstate.backup
 .terraform/
 .terraform-version
 *.tfstate
+terra-ansible-key.pem
